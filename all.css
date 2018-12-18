@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+ul,li,h1,h2,h3,p{ padding:0; margin:0; list-style:none}
+a{ text-decoration:none; color:#000}
+html{ background: url(../bts/img-73e13681883e967e1f81cdb0fe0a6cca.jpg)  repeat-x center top}
+body{ width:1000px; margin:0 auto; line-height:21px}
+.clear{ clear:both}
+.menu li{ list-style:none}
+.logo{
+	position: absolute;
+	top: 16px;
+	width: 250px;
+	height: 100px;
+	margin-left: 40px;
+	left: 22px;
+}
+.banner{ position:relative}
+
+.menu{ width:100%; text-align:center; float:left; background: #5DB8D4}
+.menu li a{ color:332dbf}.menu li { display:inline-block; padding:5px 30px ; width:100px}
+
+.right{ float:right; width:660px; padding:20px}
+.left{ min-height:300px; float:left; width:260px; padding:20px}
+.content{ background: #c4dfdc; font-size:14px; display:inline-block ; width:100%}
+
+.end{ clear:both; background:#82DEF5; color:#000000; padding:30px 0; text-align:center; font-size:70px;}
+.produce img{  margin:0 20px 20px 0}
+.produce { line-height:30px}
+.pad{ padding:20px; display:block}
+.pics p{ margin:20px; text-align:center}
+
+.imglist{ float:right; width:100%; padding:20px}
+.imglist li{ float:left; width:400px; margin:10px ; text-align:center}
+
+.news li{ padding:5px;}
+
+.title{ text-align:center; color:#F00; padding:10px}
+.fl{ float:left}
+
+.msg>div{ padding:10px}
+
+.bar{ border:#000 solid 1px; margin:20px; font-weight:bold; padding:5px}
